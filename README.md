@@ -4,6 +4,8 @@ A free and open source GameMaker alternative. A complete editor and engine used 
 
 ## Compilation
 
+### Building
+
 Build like you would any cmake project
 
 ```bash
@@ -12,6 +14,10 @@ cd build
 cmake ..
 make
 ```
+
+### Dependencies
+
+- GTK+
 
 
 ## Contributing
