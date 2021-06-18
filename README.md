@@ -17,8 +17,7 @@ make
 
 ### Dependencies
 
-- GTK+
-
+   - GTK+
 
 ## Contributing
 
